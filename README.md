@@ -6,6 +6,7 @@ There are 2 datasets (ted_main.csv & transcripts.csv).
       Both datasets are united by the common url field.
 
 I. TED MAIN DATASET
+
 • ted_main.csv
 
 • Source: https://www.kaggle.com/rounakbanik/ted-talks/data
@@ -13,6 +14,7 @@ I. TED MAIN DATASET
 • Size: 2550 records x 17 fields
 
 II. TED TRANSCRIPTS DATASET
+
 • transcripts.csv
 
 • Source: https://www.kaggle.com/rounakbanik/ted-talks/data#transcripts.csv
