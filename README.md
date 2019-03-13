@@ -7,10 +7,14 @@ There are 2 datasets (ted_main.csv & transcripts.csv).
 
 I. TED MAIN DATASET
 • ted_main.csv
+
 • Source: https://www.kaggle.com/rounakbanik/ted-talks/data
-• Size: 2550 records x 17 fields DATA TYPE COLUMN TITLE NUMBER OF RECORDS
+
+• Size: 2550 records x 17 fields
 
 II. TED TRANSCRIPTS DATASET
 • transcripts.csv
+
 • Source: https://www.kaggle.com/rounakbanik/ted-talks/data#transcripts.csv
+
 • Size: 2467 records x 2 fields
